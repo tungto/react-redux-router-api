@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "keyboard",
+      "price": "200",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "laptop asus c550ca",
+      "price": "3089",
+      "status": true
+    }
+  ]
+}
